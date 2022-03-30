@@ -1,8 +1,8 @@
-# curriculum-databases-projects-template
+# Create a database based on a diagram
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> In this project I got a database diagram, interpreted it, and implemented the SQL needed to build the database.
 
+![schema](./clinic_diagram.png)
 
 ## Getting Started
 
@@ -15,17 +15,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Mwape**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mwapsam](https://github.com/Mwapsam)
+- Twitter: [@mwapesamuel4](https://twitter.com/mwapesamuel4)
+- LinkedIn: [mwapsam](https://www.linkedin.com/in/mwapsam/)
 
-👤 **Author2**
+👤 **Alick**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@alicknyerende](https://github.com/Beardless-sheik)
+- Twitter: [@beardless_sheik](https://twitter.com/Beardless_Sheik)
+- LinkedIn: [Alick Nyirenda](https://www.linkedin.com/in/alick-nyirenda/)
 
 ## 🤝 Contributing
 
